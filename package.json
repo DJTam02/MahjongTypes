@@ -1,4 +1,11 @@
 {
-    "name": "@djtam02/MahjongTypes",
-    "version": "1.0.0"
+    "name": "@djtam02/mahjong-types",
+    "version": "1.0.0",
+    "description": "Shared types for my custom mahjong game",
+    "license": "MIT",
+    "repository": "DJTam02/MahjongTypes",
+    "main": "index.ts",
+    "keywords": [
+        "mahjong"
+    ]
 }
